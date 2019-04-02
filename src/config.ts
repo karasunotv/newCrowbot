@@ -1,6 +1,10 @@
 export let config = {
 
-    "token": "my token",
+    "token": "",
     "prefix": "?",
+    "commands": [
+
+        "testCommand"
+    ]
 
 }

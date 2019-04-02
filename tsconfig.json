@@ -14,7 +14,9 @@
 
         "noImplicitThis": true,
 
-        "inlineSourceMap": true
+        "inlineSourceMap": true,
+
+        "moduleResolution": "node"
     },
     "include": [
 
